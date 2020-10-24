@@ -1,1 +1,40 @@
+Graded Quiz: Test your knowledge of HTML and CSS
+LATEST SUBMISSION GRADE
+100%
 
+Question 1:- What is the purpose of HTML?                                                       1 / 1 point
+Ans:- It provides information about contents so that client applications such as a web browser can render it to the user according to device capabilities.
+
+Question 2:- What are the three main HTML sections of a web page?                               1 / 1 point
+Ans:- header, body, footer
+
+Question 3:-Which of these HTML lines specifies that the title "The Great Highway" should be shown on the top of the browser or the tab for a web page? 1 / 1 point
+Ans:- <title>The Great Highway</title>
+
+Question 4:- Which of these statements about hyperlinks in HTML is INCORRECT?                   1 / 1 point
+Ans:- Hypertlinks can only jump to another local file on the same server.
+
+Question 5:- The relationship between HTML and CSS is best described as:                        1 / 1 point
+Ans:- HTML specifies contents and can use CSS to format and style the contents.
+
+Question 6:- Which of these HTML code snippets is INVALID?                                      1 / 1 point
+Ans:- <p><h2>Table of Contents</p></h2>
+
+Question 7:- How do you apply a stylesheet to an HTML file?                                     1 / 1 point
+Ans:- Use a link tag in the header section of the HTML file:
+      <link rel="stylesheet" href="css/master.css">
+
+Question 8:- What does this CSS code do when applied to an HTML file?
+body {
+color: black;
+}
+h1 {
+color: red;
+}                                                                                               1 / 1 point
+Ans:- It turns all the level 1 header text red.
+
+Question 9:- Which of the following statement is true regarding font specification in CSS?      1 / 1 point
+Ans:- It is not possible to know whether a client machine has the font that we desire installed.
+
+Question 10:- What does the alt= attribute in an HTML image tag <img> do?                       1 / 1 point
+Ans:- It tells the browser to display a piece of text in place of an image in case it cannot be found or loaded.
